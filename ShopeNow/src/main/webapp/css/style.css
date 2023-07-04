@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.custom-bg{
+	background:#009688!important;
+}
+.admin .card{
+	border:2px solid #800000;
+	
+}
+.admin .card:hover{
+	transform: scale(1.05);
+	background:#80cbc4!important;
+	cursor:pointer;
+}
+.list-group-item.active{
+	background:#009688!important;
+	border-color: #009688!important;
+}
+.duscount-label{
+	font-size: 15px!important;
+	font-style: italic!important;
+	
+}
